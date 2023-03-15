@@ -10,5 +10,3 @@ behind another view by adding a material with the background.
 SF SYMBOLS: 
 SF Symbols is a library of icons designed to integrate seamlessly
 with San Francisco, the system font for Apple platforms.
-
-Test
